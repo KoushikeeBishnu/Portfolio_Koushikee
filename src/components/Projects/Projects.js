@@ -44,7 +44,7 @@ function Projects() {
               imgPath={Portfoilo}
               isBlog={false}
               title="Portfolio"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Developed a responsive portfolio website using React, JavaScript, HTML, and CSS, showcasing my projects and skills. The site is seamlessly deployed on Netlify through GitHub, ensuring a smooth and accessible user experience across all devices."
               ghLink="https://github.com/KoushikeeBishnu/Portfolio_Koushikee"
               demoLink="https://koushikeebishnu.netlify.app/"              
             />
